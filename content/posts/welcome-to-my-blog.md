@@ -14,11 +14,13 @@ I'm not entirely sure how this will shape up but I wanted a place to write and s
 
 ## My journey
 
-Having started making simple webpages in Dreamweaver with tables, my curiosity soon lead me to learning front end and a little after, back end web development. I used websites like [Codecademy](https://www.codecademy.com/) and [Treehouse](https://teamtreehouse.com) to learn HTML, CSS and JavaScript, before moving onto topics such as Rails.
+Around the start of Secondary school, I began learning Photoshop. I had long been interested in photography since my dad was a photographer, but I soon started getting interested in web design. Wanting to make my ideas a reality, I then began making simple webpages in Dreamweaver (using tables!).
 
- After I got comfortable with Rails, I built [Revisionhub](https://www.revisionhub.uk/) to track my studying. I've still got a lot of ideas for it but it helped me a lot when I was taking my A-levels.
+I was hooked. Soon after I delved into the world of programming, using [Codecademy](https://www.codecademy.com/) and [Treehouse](https://teamtreehouse.com) to learn HTML, CSS and JavaScript. This was shortly followed by an introduction to back-end web development in the form of Ruby on Rails.
 
- Last year I started university and was introduced to Java and developing for desktop. I hadn't done much outside of websites before and I really enjoyed it. Going forward, I'm excited to learn more about this and maybe have a look at Android.
+Once I got comfortable with Rails, I built [Revisionhub](https://www.revisionhub.uk/) to track my studying. I've still got a lot of ideas for this site but it helped me a lot when I was taking my A-levels.
+
+Last year, I started university and was introduced to Java and developing for desktop. I hadn't done much outside of websites before and I really enjoyed it. Going forward, I'm excited to learn more and maybe have a look at Android.
 
 ## About the site
 
