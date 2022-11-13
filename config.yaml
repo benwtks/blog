@@ -67,9 +67,9 @@ params:
     # check out https://giscus.app
     giscus: 
       repo: benwtks/blog
-      repoId: MDEwOlJlcG9zaXRvcnkzODcxMjM2NDU=
+      repoId: R_kgDOIbX5yw
       category: Comments
-      categoryId: DIC_kwDOFxMJvc4CScQm
+      categoryId: DIC_kwDOIbX5y84CSiMq
       mapping: pathname
       inputPosition: buttom # bottom | top
       reactions: true
