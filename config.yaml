@@ -8,7 +8,7 @@ theme: minima
 # author specifies your name, a slogon and your brief self-introduction.
 author:
   name: Ben Watkins
-  status: Software Engineer at Arm
+  status: Software Engineer at Arm 👨‍💻
   description: |
     I'm a Graduate Software Engineer at Arm currently working on Linux GPU Drivers. Before that, I studied Computer Science at the University of Southampton.
 
