@@ -1,4 +1,4 @@
-baseURL: https://mivinci.github.io/
+baseURL: https://benwtks.com/
 languageCode: en-gb
 title: benwtks
 copyright: © 2022 Ben Watkins
@@ -34,11 +34,11 @@ params:
   # in the buttom of every page.
   social:
     - name: "twitter"
-      url: "https://twitter.com/realmivinci"
+      url: "https://twitter.com/benwtks"
     - name: "email"
-      url: "mailto:mivinci@qq.com"
+      url: "mailto:contact@benwtks.com"
     - name: "github"
-      url: "https://github.com/mivinci/hugo-theme-minima"
+      url: "https://github.com/benwtks"
     - name: "rss"
       url: "/index.xml"
 
@@ -66,7 +66,7 @@ params:
       label: comment
     # check out https://giscus.app
     giscus: 
-      repo: mivinci/hugo-theme-minima
+      repo: benwtks/blog
       repoId: MDEwOlJlcG9zaXRvcnkzODcxMjM2NDU=
       category: Comments
       categoryId: DIC_kwDOFxMJvc4CScQm
