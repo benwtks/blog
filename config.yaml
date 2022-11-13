@@ -1,0 +1,101 @@
+baseURL: https://mivinci.github.io/
+languageCode: en-gb
+title: benwtks
+copyright: © 2022 Ben Watkins
+paginate: 12
+theme: minima
+
+# author specifies your name, a slogon and your brief self-introduction.
+author:
+  name: Ben Watkins
+  status: Software Engineer at Arm
+  description: |
+    I'm a Graduate Software Engineer at Arm currently working on Linux GPU Drivers. Before that, I studied Computer Science at the University of Southampton.
+
+params:
+  brand: benwtks
+  # greet specifies greeting words.
+  greet: Ben Watkins
+  # subtitle speficies a subtitle displayed right after the site title.
+  subtitle:
+  # switch specifies two emojis to be used as the button toggling color themes.
+  switch: ["🌚", "🌝"]
+  # defaultTheme specifies a default theme to be used.
+  # currently available options: light, dark, system.
+  defaultTheme: system
+  # displayDate speficies whether or not to display post date on the home page.
+  displayDate: true
+  # displayDescription specifies whether or not to display post description on
+  # the hoem page.
+  displayDescription: true
+  # selectable specifies if your post content can be selected.
+  selectable: true
+  # social is an array containing as many as social accounts to be displayed
+  # in the buttom of every page.
+  social:
+    - name: "twitter"
+      url: "https://twitter.com/realmivinci"
+    - name: "email"
+      url: "mailto:mivinci@qq.com"
+    - name: "github"
+      url: "https://github.com/mivinci/hugo-theme-minima"
+    - name: "rss"
+      url: "/index.xml"
+
+  # math plugin
+  math:
+    enable: false
+    provider: katex
+
+  # diagram plugin
+  diagram:
+    enable: false
+    provider: mermaid
+
+  # comment plugin
+  comment:
+    enable: true
+    provider: giscus
+    # check out https://disqus.com/
+    disqus:
+      shortname: hugo-minima
+      # check out https://utteranc.es
+    utterances:
+      repo: mivinci/hugo-theme-minima
+      issueTerm: pathname
+      label: comment
+    # check out https://giscus.app
+    giscus: 
+      repo: mivinci/hugo-theme-minima
+      repoId: MDEwOlJlcG9zaXRvcnkzODcxMjM2NDU=
+      category: Comments
+      categoryId: DIC_kwDOFxMJvc4CScQm
+      mapping: pathname
+      inputPosition: buttom # bottom | top
+      reactions: true
+      metadata: false
+
+
+# menu.main is an array containing what is used as the navigator.
+menu:
+  main:
+    - identifier: tags
+      name: "Tags"
+      weight: 2
+    - identifier: series
+      name: "Series"
+      weight: 3
+
+# taxonomies defines ways to classify yout posts. Below are some presets that
+# most bloggers use, so you can replace them with whatever you like.
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+# markup.highlight has two keys set to make sure that the syntax highlighting
+# in your posts are rendered correctly, so do not edit them.
+markup:
+  highlight:
+    lineNos: true
+    noClasses: false
