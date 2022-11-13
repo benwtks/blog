@@ -2,7 +2,7 @@
 layout: post
 title: "Getting up to speed with IntelliJ"
 date: 2020-04-07
-tags: [development]
+tags: [tools]
 summary: "Tips and tricks to take advantage of IntelliJ"
 ---
 

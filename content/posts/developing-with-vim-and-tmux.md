@@ -2,7 +2,7 @@
 layout: post
 title: "Developing with Vim and Tmux"
 date: 2020-02-05
-tags: [development]
+tags: [tools]
 summary: "An introduction to vim and tmux"
 ---
 
