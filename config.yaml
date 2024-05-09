@@ -10,8 +10,7 @@ author:
   name: Ben Watkins
   status: Software Engineer at Arm 👨‍💻
   description: |
-    I'm a Graduate Software Engineer at Arm currently working on Linux GPU Drivers. Before that, I studied Computer Science at the University of Southampton.
-
+    Graduate Engineer at Arm working on GPU Compilers, occasional blogger.
 params:
   brand: benwtks
   # greet specifies greeting words.
@@ -79,6 +78,9 @@ params:
 # menu.main is an array containing what is used as the navigator.
 menu:
   main:
+    - identifier: tags
+      name: "Tags"
+      weight: 2
     - identifier: tags
       name: "Tags"
       weight: 2
