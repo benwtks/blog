@@ -8,6 +8,7 @@
       </div>
       <ul class="flex items-center font-medium
         whitespace-nowrap overflow-x-auto overflow-y-hidden">
+        <li class="ml-1 mr-1"><a href="https://www.benwtks.photos">Photos</a></li>
         {{ range .Site.Menus.main }}
         <li class="ml-1 mr-1"><a href="{{ .Identifier | relLangURL }}">{{ T .Identifier | default .Name }}</a></li>
         {{ end }}

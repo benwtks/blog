@@ -81,9 +81,6 @@ menu:
     - identifier: tags
       name: "Tags"
       weight: 2
-    - identifier: tags
-      name: "Tags"
-      weight: 2
     - identifier: series
       name: "Series"
       weight: 3
